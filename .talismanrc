@@ -1,0 +1,20 @@
+fileignoreconfig:
+- filename: Random/README.md
+  checksum: 4e12f85fb1ffcd3934f813ece9b0adb716a9fe42da1d489ecade0a0d843cd66a
+- filename: Random/android/app/build.gradle
+  checksum: c83d30ac98346d71c3398e23ea302b53b97d3d7fd2c0dad2d826167db3786445
+- filename: Random/ios/.xcode.env
+  checksum: 7e7a550a31fa06f75561677a045b0ba039e15642d266123c06e37ade69f4c654
+- filename: Random/ios/Random.xcodeproj/project.pbxproj
+  checksum: f23e4d0451bd0700f325e63e27c55260138b80d028cd2175d9f6fb68241b4522
+- filename: Random/ios/Random.xcodeproj/xcshareddata/xcschemes/Random.xcscheme
+  checksum: b1b3c18498cefa2b5c70b45542754dd5e8b42f4ea0c14baf1c3498395d4f99c5
+- filename: Random/ios/Random/Info.plist
+  checksum: 0c016ca33011412b1c15d76d7946d3dc03c56967394db712bcaa5f590b0fbc3a
+- filename: Random/ios/Random/LaunchScreen.storyboard
+  checksum: fda802b55080456fb80ee11a042b499956174a83766eec81edfad03711ce930b
+- filename: Random/ios/RandomTests/Info.plist
+  checksum: b5ec52c9def3a93f820ef1e4f9a350bb1b39f0581064d595ae4b780187ff4456
+- filename: Random/package-lock.json
+  checksum: 7823219974f76b0330a69bd062f1a06a942b19289341fa8f75b95af1936c6caa
+version: "1.0"
