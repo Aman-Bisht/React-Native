@@ -1,4 +1,22 @@
 fileignoreconfig:
+- filename: 11-December/Practice/README.md
+  checksum: 213d5963307cf5601f12ecdf0d2f73eba6ea3973480f57a577e3d517d9232b66
+- filename: 11-December/Practice/android/app/build.gradle
+  checksum: 25bd20fd9dd4c3f700233bb63362143c5210e388e06925a957996b4f169e5072
+- filename: 11-December/Practice/ios/.xcode.env
+  checksum: 76dd9eff251be4fdc2b7189c6af23aba04990a057dfdf4f464779168fcfa82b0
+- filename: 11-December/Practice/ios/Practice.xcodeproj/project.pbxproj
+  checksum: 5edc387be4263575ad5d1eaa7a9b8665c64a7b38ceae9d063bac6f7e535b9153
+- filename: 11-December/Practice/ios/Practice.xcodeproj/xcshareddata/xcschemes/Practice.xcscheme
+  checksum: d8d0df3cba45ea4864cca12fbd491dc0bf6bb67478d975f6f25e4d7494fe8b35
+- filename: 11-December/Practice/ios/Practice/Info.plist
+  checksum: df85f0690c2e95c03c8ee5025ea9b7a316c59d32de7bd850ef50417f3cfb7e5d
+- filename: 11-December/Practice/ios/Practice/LaunchScreen.storyboard
+  checksum: e308b1203794979f802d469b3689bbdc36bfc0e1103566eb15eb701d3f38585c
+- filename: 11-December/Practice/ios/PracticeTests/Info.plist
+  checksum: d843b14905028b0db4ca5db535168b048f9d51eb33aee38a85cfa93e32962e6e
+- filename: 11-December/Practice/package-lock.json
+  checksum: bf3ebf2ae4667f3b7386022096e8965f0ba7fd6a2264fd4c69203c19a6135bf3
 - filename: Random/README.md
   checksum: 4e12f85fb1ffcd3934f813ece9b0adb716a9fe42da1d489ecade0a0d843cd66a
 - filename: Random/android/app/build.gradle
